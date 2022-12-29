@@ -1,0 +1,1 @@
+from torchvision.datasets.celeba import CelebA
